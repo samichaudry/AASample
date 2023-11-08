@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   searchBarContainer: {
-    marginTop: 20,
+    marginTop: 70,
     marginHorizontal: 11,
   },
   searchBar: {
